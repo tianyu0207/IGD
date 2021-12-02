@@ -1,5 +1,6 @@
 # IGD
-Code for 'Unsupervised Anomaly Detection with Multi-scale Interpolated Gaussian Descriptors'
+Code for 'Deep One-Class Classification via Interpolated Gaussian Descriptor'
 
+Accepted at AAAI 2022. 
 
 Code will be released later. 
