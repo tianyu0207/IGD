@@ -1,12 +1,4 @@
 # IGD
-Code for 'Deep One-Class Classification via Interpolated Gaussian Descriptor'
-
-Accepted at AAAI 2022. 
-
-Code will be released later. 
-
-
-# RTFM
 This repo contains the Pytorch implementation of our paper:
 > [**Deep One-Class Classification via Interpolated Gaussian Descriptor**](https://arxiv.org/pdf/2101.10043.pdf)
 >
@@ -17,7 +9,7 @@ This repo contains the Pytorch implementation of our paper:
 - **SOTA on 6 benchmarks.** Check out [**Papers With Code**](https://paperswithcode.com/task/anomaly-detection). 
 
 
-## Code will be released soon.  
+## Code will be released soon
 
 <!-- 
 **Please download the extracted I3d features for ShanghaiTech and UCF-Crime dataset from links below:**
