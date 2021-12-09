@@ -6,7 +6,7 @@ This repo contains the Pytorch implementation of our paper:
 
 - **Accepted at AAAI 2022.**  
 
-- **SOTA on 6 benchmarks.** Check out [**Papers With Code**](https://paperswithcode.com/task/anomaly-detection). 
+<!-- - **SOTA on 6 benchmarks.** Check out [**Papers With Code**](https://paperswithcode.com/task/anomaly-detection).  -->
 
 
 ## Code will be released soon
