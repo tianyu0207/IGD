@@ -9,7 +9,7 @@ This repo contains the Pytorch implementation of our paper:
 <!-- - **SOTA on 6 benchmarks.** Check out [**Papers With Code**](https://paperswithcode.com/task/anomaly-detection).  -->
 
 
-## Code will be released soon
+<!-- ## Code will be released soon -->
 
 <!-- 
 **Please download the extracted I3d features for ShanghaiTech and UCF-Crime dataset from links below:**
