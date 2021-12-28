@@ -8,8 +8,8 @@ This repo contains the Pytorch implementation of our paper:
 
 [**Please download the MVTec AD dataset**](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 
-### Train IGD ###
-After the setup, simply run the following command to train the global/local model: 
+### Train and Test IGD ###
+After the setup, simply run the following command to train/test the global/local model: 
 ```shell
 ./job.sh
 ```
