@@ -4,7 +4,7 @@ This repo contains the Pytorch implementation of our paper:
 >
 > Yuanhong Chen*, [Yu Tian*](https://yutianyt.com/), [Guansong Pang](https://sites.google.com/site/gspangsite/home?authuser=0), [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/).
 
-- **Accepted at AAAI 2022.**  
+- **Accepted at AAAI 2022 (Oral).**  
 
 ## Dataset
 
