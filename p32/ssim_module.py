@@ -211,7 +211,7 @@ class twoin1Generator(torch.nn.Module):
         self.pretrain = Encoder(z_dim=512)
 
         # path = '/home/user/Desktop/user/cifar10_exp/EN500000/EN500000_ckpt'
-        path = './Encoder_lr_scheduler_ckpt'
+        path = './Encoder_KD_ckpt'
         self.pretrain.load_state_dict(torch.load(path))
         for param in self.pretrain.parameters():
             param.requires_grad = False
