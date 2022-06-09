@@ -451,7 +451,7 @@ if __name__ == "__main__":
         generator     = twoin1Generator(64, latent_dimension=latent_dimension)
         discriminator = VisualDiscriminator(64)
 
-        path = './Encoder_lr_scheduler_ckpt'
+        path = './Encoder_KD_ckpt'
         generator.pretrain.load_state_dict(torch.load(path))
         for param in generator.pretrain.parameters():
             param.requires_grad = False
