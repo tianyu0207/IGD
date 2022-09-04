@@ -1,4 +1,9 @@
 # IGD
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-mnist)](https://paperswithcode.com/sota/anomaly-detection-on-mnist?p=unsupervised-anomaly-detection-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-fashion-mnist)](https://paperswithcode.com/sota/anomaly-detection-on-fashion-mnist?p=unsupervised-anomaly-detection-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-one-class-cifar-10)](https://paperswithcode.com/sota/anomaly-detection-on-one-class-cifar-10?p=unsupervised-anomaly-detection-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=unsupervised-anomaly-detection-and)
+
 This repo contains the Pytorch implementation of our paper:
 > [**Deep One-Class Classification via Interpolated Gaussian Descriptor**](https://arxiv.org/pdf/2101.10043.pdf)
 >
@@ -22,13 +27,14 @@ After the setup, simply run the following command to train/test the global/local
 If you find this repo useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{chen2021deep,
-      title={Deep One-Class Classification via Interpolated Gaussian Descriptor}, 
-      author={Yuanhong Chen and Yu Tian and Guansong Pang and Gustavo Carneiro},
-      year={2021},
-      eprint={2101.10043},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{chen2022deep,
+  title={Deep one-class classification via interpolated gaussian descriptor},
+  author={Chen, Yuanhong and Tian, Yu and Pang, Guansong and Carneiro, Gustavo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={1},
+  pages={383--392},
+  year={2022}
 }
 ```
 ---
