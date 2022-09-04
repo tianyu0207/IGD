@@ -1,7 +1,10 @@
 # IGD
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-mnist)](https://paperswithcode.com/sota/anomaly-detection-on-mnist?p=unsupervised-anomaly-detection-and)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-fashion-mnist)](https://paperswithcode.com/sota/anomaly-detection-on-fashion-mnist?p=unsupervised-anomaly-detection-and)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-one-class-cifar-10)](https://paperswithcode.com/sota/anomaly-detection-on-one-class-cifar-10?p=unsupervised-anomaly-detection-and)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unsupervised-anomaly-detection-and/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=unsupervised-anomaly-detection-and)
 
 This repo contains the Pytorch implementation of our paper:
