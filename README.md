@@ -16,7 +16,7 @@ This repo contains the Pytorch implementation of our paper:
 [**Please download the MVTec AD dataset**](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 
 
-Please download the Hyper-Kvasir Anomaly Detection Dataset from this [**link**](https://drive.google.com/file/d/1-D4noq1V115JXL_uxz-h-P7PNZEP4j1y/view?usp=sharing)
+Please download the Hyper-Kvasir Anomaly Detection Dataset from this [**link**](https://drive.google.com/file/d/1-D4noq1V115JXL_uxz-h-P7PNZEP4j1y/view?usp=sharing). 
 
 
 
